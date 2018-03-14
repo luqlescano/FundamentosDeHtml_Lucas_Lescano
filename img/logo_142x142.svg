@@ -1,0 +1,16 @@
+<svg width="142" height="142" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>logo_NextU</title>
+ <g display="inline">
+  <title>circulo1</title>
+  <circle fill="#000000" stroke="#000000" stroke-width="5" cx="71" cy="71" r="70" stroke-opacity="0" id="svg_1"/>
+ </g>
+ <g display="inline">
+  <title>circulo2</title>
+  <circle fill="#000000" stroke="#ffffff" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="71" cy="71" r="60" id="svg_2" fill-opacity="0"/>
+ </g>
+ <g display="inline">
+  <title>iniciales</title>
+  <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="291.602396" y="261.174591" id="svg_3" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" stroke-opacity="0" transform="matrix(2.6630437476349775,0,0,4.191508595794836,-705.5268837522788,-988.927754435326) " stroke="#000000" font-weight="normal">LL</text>
+ </g>
+</svg>
